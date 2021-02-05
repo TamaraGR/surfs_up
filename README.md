@@ -33,7 +33,28 @@ The comparative analysis of the two months' temperature data is the following:
 - [x] We have 12 % more temperature data points for the month June in comparison to the month of December. 
 - [x] Maximum month of June temperature is only 2 degress warmer than for the month of December (85 versus 83). 
 - [x] Average month of June temperature only about 4 degrees warmer than the one for the month of December (74.9 versus 71). 
+- [x] Minimum temperature for the month of JUne is 8 degrees higher than for the month of December (64 versus 56)
 
 ### Additional findings regarding June and December temperature 
+
+The percipitation summaries for the months of June and December are below: 
+
+![june_prcp](https://github.com/TamaraGR/surfs_up/blob/main/june_prcp.jpg)
+
+![dec_prcp](https://github.com/TamaraGR/surfs_up/blob/main/dec_prcp.jpg)
+
+The descriptive statistics for the precipiation for the months of June and December are below: 
+
+![june_prcp_desc](https://github.com/TamaraGR/surfs_up/blob/main/june_prcp_desc.jpg)
+
+![dec_prcp_desc](https://github.com/TamaraGR/surfs_up/blob/main/dec_prcp_desc.jpg)
+
+The comparative analysis of the two months' precipitation data is the following:
+
+- [x] Just like with the temperature points, there are 12% more precipitation points for the month of JUne than the month of December. 
+- [x] Average precipitation for the month of June is 0.14, while for the month of December it is 022 (0.08 difference)
+- [x] MAximum precipitation for the month of June is 4.43, and for the month of December 6.42 (2 difference). 
+- [x] Minimum precipitation is the same, at 0.
+
 
 
