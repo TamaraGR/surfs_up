@@ -28,6 +28,12 @@ The descriptive statistics for both of the months are below as well:
 
 ![dec_temp_desc](https://github.com/TamaraGR/surfs_up/blob/main/dec_temp_desc.jpg)
 
+The comparative analysis of the two months' temperature data is the following:
+
+- [x] We have 12 % more temperature data points for the month June in comparison to the month of December. 
+- [x] Maximum month of June temperature is only 2 degress warmer than for the month of December (85 versus 83). 
+- [x] Average month of June temperature only about 4 degrees warmer than the one for the month of December (74.9 versus 71). 
+
 ### Additional findings regarding June and December temperature 
 
 
