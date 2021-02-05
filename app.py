@@ -57,7 +57,6 @@ def temp_monthly():
     return jsonify(temps=temps)
 @app.route("/api/v1.0/temp/<start>")
 @app.route("/api/v1.0/temp/<start>/<end>")
-@app.route("/api/v1.0/temp/2017-06-01/2017-06-30")
 def stats(start=None, end=None):
     sel = [func.min(Measurement.tobs), func.avg(Measurement.tobs), func.max(Measurement.tobs)]
 
