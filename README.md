@@ -12,8 +12,22 @@ This is an analysis of a Waves and Ice Cream startup company. This company is ab
 
 ## Analysis Results 
 
-### Findings regarding June and December temperate
+### Findings regarding June and December temperature
 
-By filtering the date column of the Measurements table in the hawaii.sqlite database we retreived all the temperature data for the months of June and December. Then we converted that data into lists and databased for June and December. After that we have generated summary statistics for the JUne and December datasets. 
+By filtering the date column of the Measurements table in the hawaii.sqlite database we retreived all the temperature data for the months of June and December. Then we converted that data into lists and databased for June and December. After that we have generated summary statistics for the June and December datasets. The screenshot for the temperature for the month of June is below:
+
+![june_temp](https://github.com/TamaraGR/surfs_up/blob/main/june_temp.jpg)
+
+And here is the screenshot for the temperature for the month of December:
+
+![dec_temp](https://github.com/TamaraGR/surfs_up/blob/main/dec_temp.jpg)
+
+The descriptive statistics for both of the months are below as well: 
+
+![june_temp_desc](https://github.com/TamaraGR/surfs_up/blob/main/june_temp_desc.jpg)
+
+![dec_temp_desc](https://github.com/TamaraGR/surfs_up/blob/main/dec_temp_desc.jpg)
+
+### Additional findings regarding June and December temperature 
 
 
